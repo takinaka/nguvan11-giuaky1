@@ -1,0 +1,15 @@
+The structure of the folder, naming following scene number and paragraph number.
+
+*Note: A paragraph contains tons of scenes, and a scenes contains tons of parts
+
+The naming files follows this structure: <file type>-<paragraph number>-<scene num>-<part>
+
+For example, the ppt file, in scene 01, paragraph (in the #script folder) 03, part 01, has this name:
+	ppt-01-03-01.pptx 
+
+	   or the documemtary videos, in scene 02, paragraph (in the #script folder) 04, part 02, has
+this name: vid-02-04-02.mp4
+
+#Special: 
+	+ If the file is the background element, the paragraph number = bg
+	+ For the video background, the full name is bg+<part>
