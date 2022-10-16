@@ -32,12 +32,20 @@ Cấu trúc thư mục gốc bao gồm 2 thư mục "doc" chứa tệp tài li�
 
 Nguồn của hầu hết các tệp:
 	+ Video tư liệu thật: VOA, BBC, Film Images (do cộng đồng hỗ trợ), Kênh Quốc hội Cộng hòa Xã hội Chủ nghĩa Việt Nam.
+
 	+ Hình ảnh tư liệu đến từ: Film Images (do cộng đồng hỗ trợ), Vector, Bảo Khương (ĐH Kiến trúc), Jean Chesneaux (Nhà sử học người Pháp), Kenh14, Báo Đời sống & Pháp luật, Báo Thanh Niên, Báo Quân đội nhân dân Việt Nam, VOA, BBC, Kênh Quốc hội Cộng hòa Xã hội Chủ nghĩa Việt Nam.
-	+ 2D/3D Animation: TheFlightSims (trước đây có tên là TheFlightSimulations Global)
+
+	+ 2D/3D Animation: TheFlightSims (trước đây có tên là TheFlightSimulations Global), NVIDIA A.I., Topaz Labs
+	
+	+ Cấu trúc thư mục: TheFlightSims (trước đây có tên là TheFlightSimulations Global)
+	
+	+ Phông chữ: Microsoft, iCiel, Dexsar Harry Anugrah, STYLEno.1 Fonts
+	
+	+ Âm nhạc nền: Cộng đồng Pixabay
 
 # Các phần mềm liên quan
 	
-### Lưu ý: khi cài đặt phần mềm, vui lòng kết nối mạng tốc độ cao nhằm kích hoạt tự động đến máy chủ được chỉ định.
+### Lưu ý: khi cài đặt phần mềm, vui lòng kết nối mạng tốc độ cao nhằm kích hoạt tự động đến máy chủ được chỉ định (trừ GIMP và github).
 	
 Chỉnh sửa ảnh: [GIMP 2](https://download.gimp.org/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe)
 
