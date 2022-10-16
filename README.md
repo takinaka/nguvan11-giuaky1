@@ -19,8 +19,8 @@ Cấu trúc thư mục gốc bao gồm 2 thư mục "doc" chứa tệp tài li�
 
 ## 2. Quy tắc đặt tên trong thư mục "source":
   + Đối với thư mục "#script": "text-lysic-en.docx" là phiên bản tiếng Anh do học máy hỗ trợ, trong khi "text-lysic-vi.docx" là phiên bản tiếng Việt được hỗ trợ.
-  + Đối với các tệp làm ảnh nền: <file type>-bg-<part>
-  + Đối với các tệp khác: <file type>-<paragraph number>-<scene num>-<part>
+  + Đối với các tệp làm ảnh nền: **<file type>-bg-<part>**
+  + Đối với các tệp khác: **<file type>-<paragraph number>-<scene num>-<part>**
 ### 	Với:
 **file type** là loại tệp tin. Với video là "vid", tệp âm thanh là "mus", tệp hình ảnh là "pic", tệp powerpoint là "ppt". Đối với tệp phông chữ trong thư mục "font" và tệp psd trong thư mục "picture\samples", do là tệp mở rộng không phụ thuộc, nên không cần theo quy tắc.
   
