@@ -3,7 +3,11 @@
 
 # Các phần mềm liên quan
 Chỉnh sửa ảnh: GIMP 2
+
 Chỉnh sửa video: Microsoft PowerPoint 2021, Adobe Premiere Pro 2021
+
 Chỉnh sửa source: Microsoft Word 2021
+
 Chỉnh sửa âm thanh: FL Studio 20
+
 Chỉnh sửa mã nguồn git này: github for desktop, git CLI.
