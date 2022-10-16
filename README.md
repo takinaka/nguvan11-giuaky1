@@ -24,9 +24,9 @@ Cấu trúc thư mục gốc bao gồm 2 thư mục "doc" chứa tệp tài li�
 ### 	Với:
 **FileType** là loại tệp tin. Với video là "vid", tệp âm thanh là "mus", tệp hình ảnh là "pic", tệp powerpoint là "ppt". Đối với tệp phông chữ trong thư mục "font" và tệp psd trong thư mục "picture\samples", do là tệp mở rộng không phụ thuộc, nên không cần theo quy tắc.
   
-**paragraph number** là vị trí của tệp đó trên đoạn văn tương ứng trong thư mục "#script". 
+**ParagraphNumber** là vị trí của tệp đó trên đoạn văn tương ứng trong thư mục "#script". 
 
-**part** là phần của tệp đó. Điều này khiến cho các tệp có thể sắp xếp theo trình tự video, với số nhỏ hơn được hiển thị trước số lớn hơn.
+**Part** là phần của tệp đó. Điều này khiến cho các tệp có thể sắp xếp theo trình tự video, với số nhỏ hơn được hiển thị trước số lớn hơn.
 
 # Nguồn và tài trợ
 
