@@ -31,6 +31,7 @@ Cấu trúc thư mục gốc bao gồm 2 thư mục "doc" chứa tệp tài li�
 # Nguồn và tài trợ
 
 Nguồn của hầu hết các tệp:
+
 	+ Video tư liệu thật: VOA, BBC, Film Images (do cộng đồng hỗ trợ), Kênh Quốc hội Cộng hòa Xã hội Chủ nghĩa Việt Nam.
 
 	+ Hình ảnh tư liệu đến từ: Film Images (do cộng đồng hỗ trợ), Vector, Bảo Khương (ĐH Kiến trúc), Jean Chesneaux (Nhà sử học người Pháp), Kenh14, Báo Đời sống & Pháp luật, Báo Thanh Niên, Báo Quân đội nhân dân Việt Nam, VOA, BBC, Kênh Quốc hội Cộng hòa Xã hội Chủ nghĩa Việt Nam.
